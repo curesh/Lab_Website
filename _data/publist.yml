@@ -1,7 +1,7 @@
-- title: "Modeling Green's functions measurements with two-tip scanning tunneling microscopy"
+- title: "Deep Shape from Polarization"
   image: TBG_ARPES.png
-  description: A first paper from the TBG collaboration is online, with beautiful data from the Baumberger group in Geneva, and great devices from the Efetov group at ICFO. We measured STM on the device.
-  authors: M Leeuwenhoek, S Gröblacher, MP Allan, YaM Blanter
+  description: This paper makes a first attempt to re-examine the shape from polarization (SfP) problem using physics-based deep learning.
+  authors: Yunhao Ba, Alex Gilbert, Franklin Wang, Jinfa Yang, Rui Chen, Yiqin Yang, Lei Yan, Boxin Shi, Achuta Kadambi
   link:
     url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.115416
     display:  PRB 102, 115416
