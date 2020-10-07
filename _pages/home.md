@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Visual Machines Group - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Visual Machines Group at UCLA."
 sitemap: false
 permalink: /
 ---
