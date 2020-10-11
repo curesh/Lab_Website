@@ -1,9 +1,9 @@
 ---
-title: "Allan Lab - Vacancies"
+title: "Visual Machines Group - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
-permalink: /openings
+permalink: /vacancies
 ---
 
 
