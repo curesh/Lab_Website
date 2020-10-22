@@ -22,7 +22,3 @@ We are looking to fill multiple postdoc positions. Strong candidates have publis
 
 ### Contact: 
 [contact me] (mailto:achuta@ucla.com)
-
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
-</figure>
