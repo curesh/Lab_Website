@@ -23,4 +23,4 @@ Please apply to the UCLA graduate program in ECE and mention Professor Kadambi i
 We are looking to fill multiple postdoc positions. Strong candidates have published in either signal processing, machine learning, computer vision, or optics. Please email us your resume and three most significant publications.
 
 ### Contact: 
-[contact me] (mailto:achuta@ucla.com)
+<a href="mailto:achuta@ucla.edu">contact me</a>
