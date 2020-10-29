@@ -6,20 +6,35 @@ sitemap: false
 permalink: /research/
 ---
 
-# Research
 
-Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
+#Mission Statement
 
-Questions of interest include: (i), How does the Mott state collapse upon doping and how is this related to the complex phase diagram of high-temperature superconductors? (ii), What is the strange metal phase seen in correlated electron systems? Is this an exotic long-range entangled state? What is the mechanism of dissipation in that state? (iii), Why is the transition temperature in high-temperature superconductors so high? 
- 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_real.jpg){: style="width: 300px; float: right; border: 10px"}
+We give the gift of sight to machines. We do this by building computational imaging systems that tightly couple computer algorithms (CS) and imaging hardware (ECE). If successful, computational imaging has the potential to unleash an era of superhuman robotics.
 
-Currently, our instrument of choice  is SI-STM.  State-of-the-art SI-STM measures an array of tunneling spectra on a given sample, registered to the atomic sites with picometer precision. Each is proportional to the local density of states at a given location. Ideally, the recorded spectra are so tightly packed that the measurement yields a three-dimensional mapping of the local density of states as a function of locations and energy. This is shown on the image on the right-hand side (10x10 nm2), and its Fourier transform, below.
+Imagine if search-and-rescue robots could one day sense survivors through dense smoke.
 
-The quantum materials which we will investigate encapsulate some of the great unsolved mysteries of physics. They include high-temperature superconductors, quantum-critical compounds, graphene, and topological electronic matter that can be used for error-resistant quantum computing.
+Imagine if surgical robots could perform impossible surgeries by seeing details invisible to a human doctor.
+
+To work towards these dreams, our lab focuses on three technical pillars that we push, explore and test.
+
+
+#Three Pillars of Our Lab
+
+
+###Pillar I: Computational Imaging
+
+A computational imaging system tightly integrates software processing and optical capture to form novel imagery. Our group builds computational imaging systems that can see through scattering media, around corners, and more. We study visual constructs like light fields, time of flight imaging, polarization, and coherent optics. These constructs are parsed using signal processing and numerical methods. ECE 239 is a new UCLA course that covers the nascent field of computational imaging
+
+
+###Pillar II: Computational Robotic Imaging
+
+In an approach we call “computational robotic imaging”, we generalize pillar I to a co-design of algorithms, optics and robotics. Inspired by the diversity of animal eyes, we believe that vision systems will evolve with the needs of robots. Imagine if a self-driving car had a vision system that could see obstacles before it turned a corner.
+
+
+###Pillar III: Computational Health Imaging
+
+With an expertise in algorithms and optics, we build imaging systems for healthcare applications. Imagine the possibility of imaging through scattering media, like biological tissue. Ordinarily one has had to use X-rays or MRI. However, it might be possible to use novel optical and computational methods, like speckle or transient inversion to see deeper through the skin. The method at right is able to see deep subsurface veins (to identify blood clots), using spatially coded visible light. Imagine if similar techniques could be used as a low-cost, high throughput screening method for cancers.
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_fft.jpg){: style="width: 300px; float: left; border: 10px"}
 
-A main goal is to use modern technology to build the new instrumentation needed to understand these quantum materials. I learned my trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where we investigated coupled cavity arrays in circuit QED. This allowed me to learn new techniques such as high frequency measurements, low temperature noise-free amplification, and quantum-limited measurements. The goal is to combine these with SI-STM.
 
-This will enable the instrumental capabilities to visualize the different quantum mechanical degrees of freedom needed to understand next-generation quantum materials. STM will be the main method, but we use different spectroscopic-imaging techniques to visualize not only the topography, but also the density of states, spins, and other degrees of freedom hidden below the surface.
