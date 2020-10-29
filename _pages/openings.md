@@ -3,12 +3,12 @@ title: "Visual Machines Group - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
-permalink: /vacancies
+permalink: /joinus
 ---
 
 # Want to get involved?
 
-
+<br>
 
 ### UCLA Grad Students:
 Please carefully read about our scientific mission. If you would like to learn more, please email us your resume, (unofficial) transcript, and a few sentences on ideal post-graduation plans. We generally ask grad students to do a rotation.
