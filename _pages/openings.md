@@ -24,7 +24,8 @@ We are looking to fill multiple postdoc positions. Strong candidates have publis
 
 <br>
 
-## Contact: <a href="mailto:achuta@ucla.edu">achuta@ucla.edu</a>
+### Contact: 
+<a href="mailto:achuta@ucla.edu">achuta@ucla.edu</a>
 <br>
 <br>
 <br>
