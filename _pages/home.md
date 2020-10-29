@@ -1,5 +1,5 @@
 ---
-title: "Visual Machines Group - Home"
+title: "VMG - Home"
 layout: homelay
 excerpt: "Visual Machines Group at UCLA."
 sitemap: false
