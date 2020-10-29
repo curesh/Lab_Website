@@ -19,7 +19,6 @@ To work towards these dreams, our lab focuses on three technical pillars that we
 
 <br>
 <br>
-<br>
 
 # Three Pillars of Our Lab
 
