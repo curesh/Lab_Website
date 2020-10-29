@@ -1,8 +1,8 @@
 ---
-title: "Allan Lab - Pictures"
+title: "VMG - visit"
 layout: piclay
 excerpt: "Allan Lab -- Pictures"
-permalink: /pictures/
+permalink: /visit/
 ---
 
       <div class="row">
