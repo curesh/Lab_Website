@@ -1,5 +1,5 @@
 ---
-title: "Visual Machines Group - Vacancies"
+title: "VMG - Join Us"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
