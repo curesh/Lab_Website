@@ -17,6 +17,9 @@ Imagine if surgical robots could perform impossible surgeries by seeing details 
 
 To work towards these dreams, our lab focuses on three technical pillars that we push, explore and test.
 
+<br>
+<br>
+<br>
 
 # Three Pillars of Our Lab
 
