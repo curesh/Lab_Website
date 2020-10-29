@@ -7,6 +7,16 @@
     display:  PRB 102, 115416
   highlight: 0
   news2:
+  
+ - title: "Mapping #$@##$ local heterogeneity in open twisted bilayer graphene devices"
+  image: TBG_SL.png
+  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
+  authors: T Benschop*, TA de Jong*, P Stepanov*, Xiaobo Lu, V Stalman, SJ van der Molen, DK Efetov, MP Allan
+  link:
+    url: https://arxiv.org/abs/2008.13766
+    display:  arXiv:2008.13766
+  highlight: 1
+  news2:
 
 - title: "Mapping #$@##$ local heterogeneity in open twisted bilayer graphene devices"
   image: TBG_SL.png
