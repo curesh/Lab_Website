@@ -19,6 +19,35 @@ Paragraph 1
   </div>
 </div>
 
+  <div class="row">
+    <div class="col-md-5 offset-md-1">
+      <div class="heading-home"><a href=#>Press</a></div>
+<div class="heading-home padded-top">April 2020: Achuta wins Google Faculty Award</div>
+<div class="body">To support clinical translation of imaging projects.</div>
+      <div class="heading-home padded-top">April 2020: 2 Papers, Tutorial at CVPR 2020</div>
+      <div class="body">Tutorial on <a href="visualphysicstutorial.htm">Visual Physics</a>.</div>
+      <div class="heading-home padded-top">October 2019: Pradyumna wins IIT Gold Medal</div>
+      <div class="body">PhD student Pradyumna Chari wins IIT-Madras President of India Gold Medal.</div>
+      <div class="heading-home padded-top">May 2019: Paper Presentation</div>
+      <div class="body">VMG student Yiqin Wang presents paper in Japan.</div>
+      <br>
+    </div>
+    <div class="col-md-5 offset-md-1">
+      <div class="heading-home"><a href=#>Current Teaching</a></div>
+      <div class="heading-home padded-top">Winter 2020</div>
+      <div class="body">EE 211: Digital Image Processing</div>
+      <div class="heading-home padded-top">Fall 2019</div>
+      <div class="body">CS 188: Intro to Computer Vision</div>
+      <div class="heading-home padded-top">Spring 2019</div>
+      <div class="body">EE 102: Signals and Systems</div>
+      <!--<div class="heading-home padded-top">Winter 2019</div>-->
+      <!--<div class="body">EE 211: Digital Image Processing</div>-->
+      <!--<div class="heading-home padded-top">Spring 2019</div>-->
+      <!--<div class="body">TBD</div>-->
+      <br>
+    </div>
+  </div>
+
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
