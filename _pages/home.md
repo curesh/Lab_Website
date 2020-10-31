@@ -10,7 +10,7 @@ Paragraph 1
 ###
 ###
 
-![]({{ site.url }}{{ site.baseurl }}/img2/banner.png){: style="width: 300px; float: left; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/img2/banner.png){: style="width: 300px; float: left; border: 10px"} "Writing"
 
 
 
