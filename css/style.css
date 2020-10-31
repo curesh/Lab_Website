@@ -1,0 +1,740 @@
+@import url('https://fonts.googleapis.com/css?family=Taviraj:500,600,700');
+@import url('https://fonts.googleapis.com/css?family=Work+Sans:400,500,600');
+
+/* --------------------------------
+
+Primary style
+
+-------------------------------- */
+*, *::after, *::before {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+  min-width: 1280px;
+}
+
+body {
+  font-size: 1.6rem;
+  font-family: "Hind", sans-serif;
+  color: #25283D;
+  background-color: #FFFFFF;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  min-height: 2000px;
+  padding-top: 70px;
+}
+
+footer {
+  background-color: #0C1A21;
+}
+
+a {
+  color: #8F3985;
+  text-decoration: none;
+}
+/* TODO: /* FIXME:  */
+.imgwrapper {
+  width: 80%;
+  max-height: 100%;
+}
+.banner-img {
+
+  width: 100%;
+}
+.full-width {
+  width: 100%;
+}
+.over-text {
+  position: absolute;
+  left: 80px;
+  top: 200px;
+  color: black;
+}
+.padded {
+  padding-top: 30px;
+  padding-bottom:50px;
+}
+.padded-top {
+  padding-top: 30px;
+}
+.pad-center {
+  vertical-align: middle!important;
+  padding-left: 10%
+}
+.circular {
+  border-radius: 50%;
+}
+
+.center {
+    margin: auto;
+    text-align: center!important;
+}
+#center {
+  margin: auto;
+  padding: 10px;
+  text-align: center!important;
+}
+.center-img {
+  margin: auto;
+  width: 100%;
+  min-width: 178px;
+  max-width: 178px;
+}
+.column-img {
+  min-width: 375px!important;
+  max-width: 600px!important;
+}
+
+/* --------------------------------
+
+1. Auto-Hiding Navigation - Simple
+
+-------------------------------- */
+.cd-auto-hide-header {
+  position: fixed;
+  z-index: 2;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 102px;
+  background-color: #ffffff;
+  /* Force Hardware Acceleration */
+  -webkit-transform: translateZ(0);
+          transform: translateZ(0);
+  will-change: transform;
+  -webkit-transition: -webkit-transform .5s;
+  transition: -webkit-transform .5s;
+  transition: transform .5s;
+  transition: transform .5s, -webkit-transform .5s;
+}
+.cd-auto-hide-header::after {
+  clear: both;
+  content: "";
+  display: block;
+}
+.cd-auto-hide-header.is-hidden {
+  -webkit-transform: translateY(-100%);
+      -ms-transform: translateY(-100%);
+          transform: translateY(-100%);
+}
+@media only screen and (min-width: 900px) {
+  .cd-auto-hide-header {
+    height: 102px;
+  }
+  .column-3 {
+      float: left;
+      width: 33%;
+      padding-left: 90px;
+      padding-right: 90px;
+  }
+
+  .column-4 {
+      float: left;
+      width: 25%;
+      padding-left: 90px;
+      padding-right: 90px;
+  }
+
+}
+
+@media screen and (max-width: 900px) {
+  .mobile-hide {
+    display: None;
+  }
+  .column-3 {
+      float: left;
+      width: 50%;
+      padding-left: 90px;
+      padding-right: 90px;
+  }
+
+}
+
+@media only screen and (max-width: 520px) {
+  .mobile-hide {
+    display: None;
+  }
+  .column-3 {
+      float: left;
+      width: 100%;
+      padding-left: 90px;
+      padding-right: 90px;
+  }
+}
+
+.cd-auto-hide-header .logo,
+.cd-auto-hide-header .nav-trigger {
+  position: absolute;
+  top: 50%;
+  bottom: auto;
+  -webkit-transform: translateY(-50%);
+      -ms-transform: translateY(-50%);
+          transform: translateY(-50%);
+}
+
+.cd-auto-hide-header .logo {
+  left: 5%;
+}
+.cd-auto-hide-header .logo a, .cd-auto-hide-header .logo img {
+  display: block;
+}
+
+.cd-auto-hide-header .nav-trigger {
+  /* vertically align its content */
+  display: table;
+  height: 100%;
+  padding: 0 1em;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  color: #25283D;
+  font-weight: bold;
+  right: 0;
+  border-left: 1px solid #f2f2f2;
+}
+.cd-auto-hide-header .nav-trigger span {
+  /* vertically align inside parent element */
+  display: table-cell;
+  vertical-align: middle;
+}
+.cd-auto-hide-header .nav-trigger em, .cd-auto-hide-header .nav-trigger em::after, .cd-auto-hide-header .nav-trigger em::before {
+  /* this is the menu icon */
+  display: block;
+  position: relative;
+  height: 2px;
+  width: 22px;
+  background-color: #25283D;
+  -webkit-backface-visibility: hidden;
+          backface-visibility: hidden;
+}
+.cd-auto-hide-header .nav-trigger em {
+  /* this is the menu central line */
+  margin: 6px auto 14px;
+  -webkit-transition: background-color .2s;
+  transition: background-color .2s;
+}
+.cd-auto-hide-header .nav-trigger em::before, .cd-auto-hide-header .nav-trigger em::after {
+  position: absolute;
+  content: '';
+  left: 0;
+  -webkit-transition: -webkit-transform .2s;
+  transition: -webkit-transform .2s;
+  transition: transform .2s;
+  transition: transform .2s, -webkit-transform .2s;
+}
+.cd-auto-hide-header .nav-trigger em::before {
+  /* this is the menu icon top line */
+  -webkit-transform: translateY(-6px);
+      -ms-transform: translateY(-6px);
+          transform: translateY(-6px);
+}
+.cd-auto-hide-header .nav-trigger em::after {
+  /* this is the menu icon bottom line */
+  -webkit-transform: translateY(6px);
+      -ms-transform: translateY(6px);
+          transform: translateY(6px);
+}
+@media only screen and (min-width: 1024px) {
+  .cd-auto-hide-header .nav-trigger {
+    display: none;
+  }
+}
+
+.cd-auto-hide-header.nav-open .nav-trigger em {
+  /* transform menu icon into a 'X' icon */
+  background-color: rgba(255, 255, 255, 0);
+}
+.cd-auto-hide-header.nav-open .nav-trigger em::before {
+  /* rotate top line */
+  -webkit-transform: rotate(-45deg);
+      -ms-transform: rotate(-45deg);
+          transform: rotate(-45deg);
+}
+.cd-auto-hide-header.nav-open .nav-trigger em::after {
+  /* rotate bottom line */
+  -webkit-transform: rotate(45deg);
+      -ms-transform: rotate(45deg);
+          transform: rotate(45deg);
+}
+
+.cd-primary-nav {
+  display: inline-block;
+  float: right;
+  height: 100%;
+  padding-right: 5%;
+}
+.cd-primary-nav > ul {
+  position: absolute;
+  z-index: 2;
+  top: 60px;
+  left: 0;
+  width: 100%;
+  background-color: #ffffff;
+  display: none;
+  box-shadow: 0 14px 20px rgba(0, 0, 0, 0.2);
+}
+.cd-primary-nav > ul a {
+  /* target primary-nav links */
+  display: block;
+  height: 50px;
+  line-height: 50px;
+  padding-left: 5%;
+  color: #25283D;
+  font-size: 1.8rem;
+  border-top: 1px solid #f2f2f2;
+}
+.cd-primary-nav > ul a:hover, .cd-primary-nav > ul a.active {
+  color: #387bad;
+}
+a#athome, a#atpage {
+  color: #387bad;
+}
+
+@media only screen and (min-width: 1024px) {
+  .cd-primary-nav {
+    /* vertically align its content */
+    display: table;
+  }
+  .cd-primary-nav > ul {
+    /* vertically align inside parent element */
+    display: table-cell;
+    vertical-align: middle;
+    /* reset mobile style */
+    position: relative;
+    width: auto;
+    top: 0;
+    padding: 0;
+    background-color: transparent;
+    box-shadow: none;
+  }
+  .cd-primary-nav > ul::after {
+    clear: both;
+    content: "";
+    display: block;
+  }
+  .cd-primary-nav > ul li {
+    display: inline-block;
+    float: left;
+    margin-right: 1.5em;
+  }
+  .cd-primary-nav > ul li:last-of-type {
+    margin-right: 0;
+  }
+  .cd-primary-nav > ul a {
+    /* reset mobile style */
+    height: auto;
+    line-height: normal;
+    padding: 0;
+    border: none;
+  }
+}
+
+.nav-open .cd-primary-nav ul,
+.cd-primary-nav ul:target {
+  /*
+  	show primary nav - mobile only
+  	:target is used to show navigation on no-js devices
+  */
+  display: block;
+}
+@media only screen and (min-width: 1024px) {
+  .nav-open .cd-primary-nav ul,
+  .cd-primary-nav ul:target {
+    display: table-cell;
+  }
+}
+
+
+
+/* --------------------------------
+
+2. Auto-Hiding Navigation - with Sub Nav
+
+-------------------------------- */
+.cd-secondary-nav {
+  position: relative;
+  z-index: 1;
+  clear: both;
+  width: 100%;
+  height: 50px;
+  background-color: #25283D;
+  /* Force Hardware Acceleration */
+  -webkit-transform: translateZ(0);
+          transform: translateZ(0);
+  will-change: transform;
+  -webkit-transition: -webkit-transform .5s;
+  transition: -webkit-transform .5s;
+  transition: transform .5s;
+  transition: transform .5s, -webkit-transform .5s;
+}
+.cd-secondary-nav::after {
+  /* gradient on the right - to indicate it's possible to scroll */
+  content: '';
+  position: absolute;
+  z-index: 1;
+  top: 0;
+  right: 0;
+  height: 100%;
+  width: 35px;
+  background: transparent;
+  background: -webkit-linear-gradient(right, #25283D, rgba(37, 40, 61, 0));
+  background: linear-gradient(to left, #25283D, rgba(37, 40, 61, 0));
+  pointer-events: none;
+  -webkit-transition: opacity .2s;
+  transition: opacity .2s;
+}
+.cd-secondary-nav.nav-end::after {
+  opacity: 0;
+}
+.cd-secondary-nav ul, .cd-secondary-nav li, .cd-secondary-nav a {
+  height: 100%;
+}
+.cd-secondary-nav ul {
+  /* enables a flex context for all its direct children */
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 0 5%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+.cd-secondary-nav ul::after {
+  clear: both;
+  content: "";
+  display: block;
+}
+.cd-secondary-nav li {
+  display: inline-block;
+  float: left;
+  /* do not shrink - elements float on the right of the element */
+  -webkit-flex-shrink: 0;
+      -ms-flex-negative: 0;
+          flex-shrink: 0;
+}
+.cd-secondary-nav li:last-of-type {
+  padding-right: 20px;
+}
+.cd-secondary-nav a {
+  display: block;
+  color: #ffffff;
+  opacity: .6;
+  line-height: 50px;
+  padding: 0 1em;
+}
+.cd-secondary-nav a:hover, .cd-secondary-nav a.active {
+  opacity: 1;
+}
+@media only screen and (min-width: 1024px) {
+  .cd-secondary-nav {
+    height: 70px;
+    overflow: visible;
+  }
+  .cd-secondary-nav ul {
+    /* reset mobile style */
+    display: block;
+    text-align: center;
+  }
+  .cd-secondary-nav li {
+    /* reset mobile style */
+    float: none;
+    -webkit-flex-shrink: 1;
+        -ms-flex-negative: 1;
+            flex-shrink: 1;
+  }
+  .cd-secondary-nav a {
+    line-height: 70px;
+  }
+  .cd-secondary-nav a.active {
+    box-shadow: inset 0 -3px #8F3985;
+  }
+}
+
+/* --------------------------------
+
+3. Auto-Hiding Navigation - with Sub Nav + Hero Image
+
+-------------------------------- */
+.cd-secondary-nav.fixed {
+  position: fixed;
+  top: 60px;
+}
+.cd-secondary-nav.slide-up {
+  -webkit-transform: translateY(-60px);
+      -ms-transform: translateY(-60px);
+          transform: translateY(-60px);
+}
+@media only screen and (min-width: 1024px) {
+  .cd-secondary-nav.fixed {
+    top: 80px;
+    /* fixes a bug where nav and subnab move with a slight delay */
+    box-shadow: 0 -6px 0 #25283D;
+  }
+  .cd-secondary-nav.slide-up {
+    -webkit-transform: translateY(-80px);
+        -ms-transform: translateY(-80px);
+            transform: translateY(-80px);
+  }
+}
+
+/* --------------------------------
+
+Main content
+
+-------------------------------- */
+
+
+.heading {
+  font-family: "Work Sans";
+  font-size: 18pt;
+  font-weight: bold;
+  text-align: left;
+  margin-bottom: 10px;
+}
+.heading-home {
+  font-family: "Work Sans";
+  font-size: 14pt;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+.sub-heading {
+  font-family: "Work Sans";
+  font-size: 12pt;
+  font-weight: 500;
+  text-align: left;
+  margin-bottom: 12px;
+}
+.body {
+  font-family: "Work Sans";
+  font-size: 12pt;
+  font-weight: 400;
+  text-align: left;
+  line-height: 1.25em;
+}
+.body-bold {
+  font-family: "Work Sans";
+  font-size: 14pt;
+  font-weight: 600;
+  text-align: left;
+  line-height: 1.25em;
+}
+.bold {
+  font-weight: bold;
+}
+.white {
+  color: white;
+}
+.cd-main-content {
+  padding: 60px 10% 2em;
+  overflow: hidden;
+}
+.cd-main-content.sub-nav {
+  /* to be used if there is sub nav */
+  padding-top: 110px;
+}
+.cd-main-content.sub-nav-hero {
+  /* to be used if there is hero image + subnav */
+  padding-top: 0;
+}
+.cd-main-content.sub-nav-hero.secondary-nav-fixed {
+  margin-top: 50px;
+}
+.cd-main-content p {
+  max-width: 1024px;
+  line-height: 1.6;
+  margin: 2em auto;
+  font-family: "Open Sans", sans-serif;
+  color: black;
+}
+@media only screen and (min-width: 1024px) {
+  .cd-main-content {
+    padding-top: 20px;
+  }
+  .cd-main-content.sub-nav {
+    padding-top: 150px;
+  }
+  .cd-main-content.sub-nav-hero.secondary-nav-fixed {
+    margin-top: 70px;
+  }
+  .cd-main-content p {
+    font-size: 2.0rem;
+  }
+}
+
+/*
+	adjust the positioning of in-page links
+	http://nicolasgallagher.com/jump-links-and-viewport-positioning/
+*/
+.cd-main-content.sub-nav :target::before,
+.cd-main-content.sub-nav-hero :target::before {
+  display: block;
+  content: "";
+  margin-top: -50px;
+  height: 50px;
+  visibility: hidden;
+}
+@media only screen and (min-width: 1024px) {
+  .cd-main-content.sub-nav :target::before,
+  .cd-main-content.sub-nav-hero :target::before {
+    margin-top: -70px;
+    height: 70px;
+  }
+}
+
+
+/* People Section */
+.column-peopleimg {
+  float: left;
+  width: 45%;
+  height: max-content;
+  padding-left: 30px;
+  padding-right: 30px;
+  text-align: center;
+}
+
+.column-peopletext {
+  float: left;
+  width: 25%;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 20px;
+}
+
+.people-text {
+  font-family: "Work Sans";
+  font-size: 12pt;
+  font-weight: 500;
+  text-align: left;
+}
+
+/* --------------------------------
+
+Intro Section
+
+-------------------------------- */
+.cd-hero {
+  /* vertically align its content */
+  display: table;
+  width: 100%;
+  margin-top: 60px;
+  height: 300px;
+  background: url(../img/cd-hero-background.jpg) no-repeat center center;
+  background-size: cover;
+}
+.cd-hero .cd-hero-content {
+  /* vertically align inside parent element */
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+}
+@media only screen and (min-width: 768px) {
+  .cd-hero {
+    height: 400px;
+  }
+}
+@media only screen and (min-width: 1024px) {
+  .cd-hero {
+    height: 600px;
+    margin-top: 80px;
+  }
+}
+
+/*
+
+Main content
+
+.row {
+    display: -ms-flexbox; /* IE10
+    display: flex;
+    -ms-flex-wrap: wrap; /* IE10
+    flex-wrap: wrap;
+    padding: 0 4px;
+}
+*/
+
+/*/* TODO: add comments  !Create four equal columns that sits next to each other */
+.column-right {
+  display: inline-block;
+    -ms-flex: 70%; /* IE10 */
+    flex: 70%;
+    max-width: 70%;
+    padding: 40px 40px 40px 40px;
+    margin-bottom: 10px;
+}
+.column-left {
+  display: inline-block;
+  text-align: center;
+    -ms-flex: 30%; /* IE10 */
+    flex: 30%;
+    max-width: 30%;
+    padding: 0 4px;
+}
+.column-50 {
+  display: inline-block;
+  text-align: center;
+    -ms-flex: 50%; /* IE10 */
+    flex: 50%;
+    max-width: 50%;
+    padding: 0 4px;
+}
+
+
+.column div {
+    margin-top: 8px;
+
+
+}
+
+.news-card {
+  text-align: left;
+  padding-left: 20px;
+  width: 100%;
+  border-radius: 5px;
+  box-shadow: 8px 0px 4px rgba(0, 0, 0, 0.05);
+
+}
+.people-card {
+
+}
+
+#news-title {
+  font-family: "Taviraj"
+
+}
+
+
+
+
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+
+@media screen and (max-width: 800px) {
+    .column {
+        -ms-flex: 50%;
+        flex: 50%;
+        max-width: 50%;
+    }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+    .column {
+        -ms-flex: 100%;
+        flex: 100%;
+        max-width: 100%;
+    }
+}
+/* Create two equal columns that floats next to each other */
+.column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
