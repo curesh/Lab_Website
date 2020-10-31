@@ -1,5 +1,5 @@
 - title: "Deep Shape from Polarization"
-  image: deepsfp/sfp.png
+  image: deepfsp/sfp.png
   description: This paper makes a first attempt to re-examine the shape from polarization (SfP) problem using physics-based deep learning.
   authors: Yunhao Ba, Alex Gilbert, Franklin Wang, Jinfa Yang, Rui Chen, Yiqin Yang, Lei Yan, Boxin Shi, Achuta Kadambi ------------------
   link:
