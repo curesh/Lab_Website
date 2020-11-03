@@ -7,7 +7,7 @@ permalink: /research/
 ---
 
 
-# Mission Statement -----------------------&&&&
+# Mission Statement 
 
 We give the gift of sight to machines. We do this by building computational imaging systems that tightly couple computer algorithms (CS) and imaging hardware (ECE). If successful, computational imaging has the potential to unleash an era of superhuman robotics.
 
@@ -35,7 +35,7 @@ In an approach we call “computational robotic imaging”, we generalize pillar
 
 ### Pillar III: Computational Health Imaging
 
-With an expertise in algorithms and optics, we build imaging systems for healthcare applications. Imagine the possibility of imaging through scattering media, like biological tissue. Ordinarily one has had to use X-rays or MRI. However, it might be possible to use novel optical and computational methods, like speckle or transient inversion to see deeper through the skin. The method at right is able to see deep subsurface veins (to identify blood clots), using spatially coded visible light. Imagine if similar techniques could be used as a low-cost, high throughput screening method for cancers.
+With an expertise in algorithms and optics, we asdasdbuild imaging systems for healthcare applications. Imagine the possibility of imaging through scattering media, like biological tissue. Ordinarily one has had to use X-rays or MRI. However, it might be possible to use novel optical and computational methods, like speckle or transient inversion to see deeper through the skin. The method at right is able to see deep subsurface veins (to identify blood clots), using spatially coded visible light. Imagine if similar techniques could be used as a low-cost, high throughput screening method for cancers.
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_fft.jpg){: style="width: 300px; float: left; border: 10px"}
 
