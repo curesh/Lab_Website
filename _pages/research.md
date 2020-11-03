@@ -7,7 +7,7 @@ permalink: /research/
 ---
 
 
-# Mission Statement -----------------------
+# Mission Statement -----------------------&&&&
 
 We give the gift of sight to machines. We do this by building computational imaging systems that tightly couple computer algorithms (CS) and imaging hardware (ECE). If successful, computational imaging has the potential to unleash an era of superhuman robotics.
 
