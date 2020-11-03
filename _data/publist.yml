@@ -40,7 +40,7 @@
 - title: "Blending Diverse Physical Priors with Neural Networks"
   image: TBG_ARPES.png
   description: Generalizing Physics-Based Learning (PBL), by making the first attempt to bring neural architecture search (NAS) to the realm of PBL.
-  authors: <authors>
+  authors: insert authors
   link:
     url: https://arxiv.org/abs/2002.02289
     display:  arXiv:2002.02289
