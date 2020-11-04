@@ -42,7 +42,7 @@ We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi tal
       
    <div class="over-text d-none d-md-none d-lg-block">
       
-   <div class="heading" style="color:black;">Giving Robots the Gifhkyihft of Sight</div>
+   <div class="heading" style="color:black;">Giving Robots the Gift of Sight</div>
       
    <div class="body" style="color:black">Superhuman cameras enable superhuman robotics,
       
