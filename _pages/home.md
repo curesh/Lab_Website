@@ -27,15 +27,15 @@ We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi tal
 </figure>
 
 <main role="main" class="container-fluid">
-    <div class="row">
-      <div class="col-md-12 image-wrapper">
-        <img src="img2/banner.png" class="img-responsive" style="width:100%">
-        <div class="over-text d-none d-md-none d-lg-block">
-            <div class="heading" style="color:black;">Giving Robots the Gift of Sight</div>
-            <div class="body" style="color:black">Superhuman cameras enable superhuman robotics,
+  <div class="row">
+    <div class="col-md-12 image-wrapper">
+      <img src="img2/banner.png" class="img-responsive" style="width:100%">
+      <div class="over-text d-none d-md-none d-lg-block">
+        <div class="heading" style="color:black;">Giving Robots the Gift of Sight</div>
+        <div class="body" style="color:black">Superhuman cameras enable superhuman robotics,
               <br>advancing cyberphysical systems and digital health
-            </div>
         </div>
       </div>
     </div>
-  </main>
+  </div>
+</main>
