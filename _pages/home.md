@@ -6,9 +6,6 @@ sitemap: false
 permalink: /
 ---
 Paragraph 1
-###
-###
-###
 
 ![]({{ site.url }}{{ site.baseurl }}/img2/banner.png){: style="width: 300px; float: left; border: 10px"} "Writing"
 
@@ -28,3 +25,17 @@ We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi tal
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
 </figure>
+
+<main role="main" class="container-fluid">
+    <div class="row">
+      <div class="col-md-12 image-wrapper">
+        <img src="img2/banner.png" class="img-responsive" style="width:100%">
+        <div class="over-text d-none d-md-none d-lg-block">
+            <div class="heading" style="color:black;">Giving Robots the Gift of Sight</div>
+            <div class="body" style="color:black">Superhuman cameras enable superhuman robotics,
+              <br>advancing cyberphysical systems and digital health
+            </div>
+        </div>
+      </div>
+    </div>
+  </main>
