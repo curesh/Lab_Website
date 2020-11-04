@@ -28,9 +28,9 @@ We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi tal
 
 <div style="height: 100px;">
   
-<img src="img2/banner.png" class="img-responsive" style="width:100%">
+<p> HELLOOO! </p>  
   
-<p> HELLO </p>
+<img src="img2/banner.png" class="img-responsive" style="width:100%">
   
 </div>
 
