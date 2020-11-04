@@ -27,8 +27,11 @@ We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi tal
 </figure>
 
 <div>
-  ![]({{ site.url }}{{ site.baseurl }}/img2/banner.png){: style="width: 300px; float: left; border: 10px"} 
-  writing
+  
+<img src="img2/banner.png" class="img-responsive" style="width:100%">
+  
+<p> HELLO </p>
+  
 </div>
 
 <main role="main" class="container-fluid">
