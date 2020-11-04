@@ -26,6 +26,11 @@ We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi tal
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
 </figure>
 
+<div>
+  ![]({{ site.url }}{{ site.baseurl }}/img2/banner.png){: style="width: 300px; float: left; border: 10px"} 
+  writing
+</div>
+
 <main role="main" class="container-fluid">
   ![]({{ site.url }}{{ site.baseurl }}/img2/banner.png){: style="width: 300px; float: left; border: 10px"} "Writing"
   <div class="row">
