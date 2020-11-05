@@ -32,8 +32,8 @@ permalink: /people/
 
 
 <div style="text-align:center">
-   <br> <br> <br> <br>
-   <h4> Postdoctoral Researchers <a href="{{ site.url }}{{ site.baseurl }}/vacancies">(Join Us)</a></h4>
+   <br> <br> <br> 
+   <h2> Postdoctoral Researchers <a href="{{ site.url }}{{ site.baseurl }}/vacancies">(Join Us)</a></h2>
    <br> <br> 
    <h2> Students</h2>
  </div>
