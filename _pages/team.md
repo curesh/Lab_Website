@@ -6,15 +6,15 @@ sitemap: false
 permalink: /people/
 ---
 
-<div style="width: 45%; height: auto; border: 5px red solid; display: inline-block; vertical-align: top">         
+<div style="width: 45%; height: auto; display: inline-block; vertical-align: top">         
    
    <img src="{{ site.url }}{{ site.baseurl }}/img/achutalarge.png" alt="Headshot" style="height:100%; width:100%">
 
 </div>
 
-<div markdown="1" style="width:45%; left: 50%; border: 5px red solid; display: inline-block; margin: auto; padding: 20px">
+<div markdown="1" style="width:45%; left: 50%; display: inline-block; margin: auto; padding: 20px">
    
-   <br> <br> <br>
+   <br> <br>
    
    <h2>Achuta Kadambi</h2>
    
