@@ -9,12 +9,12 @@ permalink: /visit/
 
 <br> <br> <br>
 
-<div style="width: 45%; height: auto; display: inline-block; vertical-align: top">         
+<div style="width: 45%; height: auto; display: inline-block; vertical-align: top; margin-left: 200px">         
    
 <h4 style="font-weight: bold">Achuta’s Address:</h4>
 Room #56-147J, Engineering IV
 420 Westwood Plaza
-Los Angeles, CA 90095
+Los Angeles, CA 90095 <br>
 <a href="mailto:achuta@ucla.edu">achuta@ucla.edu</a>
 
 <h4 style="font-weight: bold">Lab Address:</h4>
