@@ -37,6 +37,8 @@ permalink: /people/
    <br> <br> 
    <h2> Students</h2>
  </div>
+ 
+ <br> <br>
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
