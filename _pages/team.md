@@ -12,7 +12,9 @@ permalink: /people/
 
 </div>
 
-<div markdown="1" style="width:45%; left: 50%; border: 5px red solid; display: inline-block; margin: auto; vertical-align: middle">
+<div markdown="1" style="width:45%; left: 50%; border: 5px red solid; display: inline-block; margin: auto">
+   
+   <br> <br> 
    
    <h2>Achuta Kadambi</h2>
    
