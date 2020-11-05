@@ -8,7 +8,7 @@ permalink: /people/
 
 <div class="col-sm-4">         
    
-   <img src="img/achutalarge.png" alt="Headshot" class="column-img center-img" style="padding-left: 90px">
+   <img src="{{ site.url }}{{ site.baseurl }}/img/achutalarge.png" alt="Headshot" class="column-img center-img" style="padding-left: 90px">
 
 </div>
 
@@ -21,7 +21,7 @@ permalink: /people/
   </div>
 </div>
 
-# Group Members
+# Group Members-------
 
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
