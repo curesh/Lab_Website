@@ -28,6 +28,10 @@ permalink: /people/
   
 </div>
 
+<div style="text-align:center">
+   <h4> Postdoctoral Researchers <a href="{{ site.url }}{{ site.baseurl }}/vacancies">(Join Us)</a></h4>
+ </div>
+
 # Group Members-----
 
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
