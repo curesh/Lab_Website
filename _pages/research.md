@@ -1,12 +1,13 @@
 ---
-title: "VMG - Research"
+title: "VMG - Scientific Mission"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "Allan Lab -- Scientific Mission"
 sitemap: false
-permalink: /research/
+permalink: /ScientificMission/
 ---
 
-
+<div class="col-sm-4">
+  
 # Mission Statement 
 
 We give the gift of sight to machines. We do this by building computational imaging systems that tightly couple computer algorithms (CS) and imaging hardware (ECE). If successful, computational imaging has the potential to unleash an era of superhuman robotics.
@@ -17,12 +18,14 @@ Imagine if surgical robots could perform impossible surgeries by seeing details 
 
 To work towards these dreams, our lab focuses on three technical pillars that we push, explore and test.
 
+</div>
+
 ![]({{ site.url }}{{ site.baseurl }}/img/camera.png){: style="width: 300px; float: left; border: 10px"}
 
 <br>
 <br>
 
-# Three Pillars of Our Lab
+# Three Pillars of Our Labgiyvguytb
 
 
 ### Pillar I: Computational Imaging
