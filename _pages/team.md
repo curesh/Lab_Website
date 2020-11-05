@@ -14,18 +14,16 @@ permalink: /people/
 
 <div style="width:50%; left: 50%; border: 5px red solid">
    
-  <div class="pad-center">
+   ## Achuta Kadambi
    
-   <div class="heading-home">Achuta Kadambi</div>
+   **Leader, Visual Machines Group
+   
+   Assistant Professor, UCLA
+   Electrical and Computer Engineering
+   PhD, Massachusetts Institute of Technology
     
-   <div class="sub-heading">Leader, Visual Machines Group</div>
-   
-   <div class="body">Assistant Professor, UCLA<br />Electrical and Computer Engineering<br/>PhD, Massachusetts Institute of Technology</div>
-   
-   <div class="body"><a href="kadambi_cv.pdf">CV/Resume</a></div>
+ <a href="kadambi_cv.pdf">CV/Resume</a>
   
-  </div>
-
 </div>
 
 # Group Members
