@@ -7,10 +7,9 @@ permalink: /visit/
 
 ### Want to get involved?
 
+<br> <br> <br>
 
 <div style="width: 45%; height: auto; display: inline-block; vertical-align: top">         
-   
-<br> <br> <br>
    
 <h4>Achuta’s Address:</h4>
 Room #56-147J, Engineering IV
