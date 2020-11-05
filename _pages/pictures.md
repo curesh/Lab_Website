@@ -11,18 +11,18 @@ permalink: /visit/
 
 <div style="width: 45%; height: auto; display: inline-block; vertical-align: top">         
    
-<h4>Achuta’s Address:</h4>
+<h4 style="font-weight: bold">Achuta’s Address:</h4>
 Room #56-147J, Engineering IV
 420 Westwood Plaza
 Los Angeles, CA 90095
 <a href="mailto:achuta@ucla.edu">achuta@ucla.edu</a>
 
-<h4>Lab Address:</h4>
+<h4 style="font-weight: bold">Lab Address:</h4>
 Room #18-135, Engineering IV
 420 Westwood Plaza
 Los Angeles, CA 90095
 
-<h4>Student Workplace Address:</h4>
+<h4 style="font-weight: bold">Student Workplace Address:</h4>
 Room #66-124, Engineering IV
 420 Westwood Plaza
 Los Angeles, CA 90095
