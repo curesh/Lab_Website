@@ -6,7 +6,7 @@ sitemap: false
 permalink: /people/
 ---
 
-<div style="width: 45%; height: auto; border: 5px red solid; display: inline-block">         
+<div style="width: 45%; height: auto; border: 5px red solid; display: inline-block; vertical-align: top">         
    
    <img src="{{ site.url }}{{ site.baseurl }}/img/achutalarge.png" alt="Headshot" style="height:100%; width:100%">
 
@@ -26,7 +26,7 @@ permalink: /people/
   
 </div>
 
-# Group Members
+# Group Members-----
 
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
