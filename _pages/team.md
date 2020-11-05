@@ -6,7 +6,7 @@ sitemap: false
 permalink: /people/
 ---
 
-<div class="col-sm-4">         
+<div class="col-sm-6">         
    
    <img src="{{ site.url }}{{ site.baseurl }}/img/achutalarge.png" alt="Headshot" class="column-img center-img" style="padding-left: 90px">
 
