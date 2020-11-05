@@ -35,10 +35,9 @@ permalink: /people/
    <br> <br> <br> <br>
    <h4> Postdoctoral Researchers <a href="{{ site.url }}{{ site.baseurl }}/vacancies">(Join Us)</a></h4>
    <br> <br> 
-   <h4> Students</h4>
+   <h2> Students</h2>
  </div>
 
-## Staff
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
