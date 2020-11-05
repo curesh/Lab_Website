@@ -32,10 +32,11 @@ permalink: /people/
 
 
 <div style="text-align:center">
+   <br> <br> <br> <br>
    <h4> Postdoctoral Researchers <a href="{{ site.url }}{{ site.baseurl }}/vacancies">(Join Us)</a></h4>
+   <br> <br> 
+   <h4> Students</h4>
  </div>
-
-## Students
 
 ## Staff
 {% assign number_printed = 0 %}
