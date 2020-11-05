@@ -7,7 +7,9 @@ permalink: /people/
 ---
 
 <div class="col-sm-4">         
-   <img src="img/achutalarge.png" <alt="Headshot" class="column-img center-img" style="padding-left: 90px">
+   
+   <img src="img/achutalarge.png" alt="Headshot" class="column-img center-img" style="padding-left: 90px">
+
 </div>
 
 <div class="col-sm-4">
