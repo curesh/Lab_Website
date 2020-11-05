@@ -8,7 +8,7 @@ permalink: /people/
 
 <div style="width: 50%; border: 5px red solid">         
    
-   <img src="{{ site.url }}{{ site.baseurl }}/img/achutalarge.png" alt="Headshot" class="column-img center-img" style="padding-left: 90px; height:100%; width:100%">
+   <img src="{{ site.url }}{{ site.baseurl }}/img/achutalarge.png" alt="Headshot" class="column-img center-img" style="height:100%; width:100%">
 
 </div>
 
