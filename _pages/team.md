@@ -6,17 +6,17 @@ sitemap: false
 permalink: /people/
 ---
 
-<div style="width: 30%; height: auto; border: 5px red solid; display: inline-block">         
+<div style="width: 45%; height: auto; border: 5px red solid; display: inline-block">         
    
    <img src="{{ site.url }}{{ site.baseurl }}/img/achutalarge.png" alt="Headshot" style="height:100%; width:100%">
 
 </div>
 
-<div markdown="1" style="width:30%; left: 50%; border: 5px red solid; display: inline-block">
+<div markdown="1" style="width:45%; left: 50%; border: 5px red solid; display: inline-block">
    
    ## Achuta Kadambi
    
-   **Leader, Visual Machines Group
+   <h4>Leader, Visual Machines Group</h4>
    
    Assistant Professor, UCLA
    Electrical and Computer Engineering
