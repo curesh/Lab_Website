@@ -12,7 +12,7 @@ permalink: /people/
 
 </div>
 
-<div style="width:50%; left: 50%; border: 5px red solid">
+<div markdown="1" style="width:50%; left: 50%; border: 5px red solid">
    
    ## Achuta Kadambi
    
