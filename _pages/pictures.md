@@ -5,10 +5,16 @@ excerpt: "Allan Lab -- Pictures"
 permalink: /visit/
 ---
 
+### Want to get involved?
+ 
 <div class="row">
 <div class="col-md-4">
-  <p class="heading">Want to get involved?</p> 
-  <br>
+
+apiudjaskldas
+asdasdnlkajsdnas
+das;kjdnlasjndas
+dasjdbkjahsbdasdasdhbasjbdh
+
   <p class="body">
     <span span style="font-weight:bold">Achuta's Address:</span><br \>
     Room #56-147J, Engineering IV<br />
