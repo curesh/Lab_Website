@@ -12,7 +12,7 @@ permalink: /people/
 
 </div>
 
-<div style="width:50%">
+<div style="width:50%; left: 50%">
    
   <div class="pad-center">
    
