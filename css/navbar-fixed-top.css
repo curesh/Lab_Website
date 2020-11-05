@@ -1,0 +1,227 @@
+@import url("https://fonts.googleapis.com/css?family=Taviraj:500,600,700");
+@import url("https://fonts.googleapis.com/css?family=Work+Sans:400,500,600");
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* min-height: 75rem; */
+  padding-top: 100px;
+  font-family: "Hind", sans-serif;
+  /* font-size: 1.6rem; */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin-bottom: 60px;
+}
+
+a {
+  color: #8f3985;
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.container-fluid {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 60px; /* Set the fixed height of the footer here */
+  line-height: 60px; /* Vertically center the text there */
+  background-color: #f5f5f5;
+}
+
+.over-text {
+  position: absolute;
+  left: 80px;
+  top: 200px;
+  color: black;
+}
+
+.heading {
+  font-family: "Work Sans";
+  font-size: 18pt;
+  font-weight: bold;
+  text-align: left;
+  margin-bottom: 10px;
+}
+.heading-home {
+  font-family: "Work Sans";
+  font-size: 14pt;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+.sub-heading {
+  font-family: "Work Sans";
+  font-size: 12pt;
+  font-weight: 500;
+  text-align: left;
+  margin-bottom: 12px;
+}
+.body {
+  font-family: "Work Sans";
+  font-size: 12pt;
+  font-weight: 400;
+  text-align: left;
+  line-height: 1.25em;
+}
+.body-bold {
+  font-family: "Work Sans";
+  font-size: 14pt;
+  font-weight: 600;
+  text-align: left;
+  /* line-height: 1.25em; */
+}
+.bold {
+  font-weight: bold;
+}
+.padded-top {
+  padding-top: 30px;
+}
+
+.white {
+  color: white;
+}
+.caption {
+  font-family: "Work Sans";
+  font-size: 10pt;
+  font-weight: 400;
+  text-align: left;
+  line-height: 1.25em;
+  font-style: italic;
+}
+.image-wrapper {
+  width: 100%;
+  /* height:100%; */
+}
+
+.center-img {
+  text-align: center;
+  margin: auto;
+  width: 100%;
+  min-width: 178px;
+  max-width: 178px;
+  min-height: 266;
+  max-height: 266px;
+}
+
+.center {
+  margin: auto;
+  text-align: center !important;
+}
+
+.module .collapse,
+.module .collapsing {
+  height: 2.5rem; /* [NUM_OF_LINES] x [LINE_HEIGHT] */
+}
+
+.module .collapse {
+  position: relative; /* For ...'s content absolute positioning */
+  display: block;
+  overflow: hidden;
+}
+
+.module .collapse:before {
+  /* content: ' ...'; */
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
+
+.module .collapse.show {
+  height: auto; /* You need to reset the height when not collapsed */
+}
+
+.module .collapse.show:before {
+  display: none; /* Of course you don't want to display ... */
+}
+
+.module a.collapsed.collapsing-btn:after {
+  content: "+ Show More";
+}
+
+.module a.collapsing-btn:not(.collapsed):after {
+  content: "- Show Less";
+}
+
+.map-responsive iframe {
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  max-width: 500px;
+  max-height: 450px;
+  position: relative;
+}
+
+.imageborder {
+  padding: 5px;
+  border: solid 1px #ddd;
+}
+
+.alignleft {
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  margin-top: 5px;
+}
+
+.profile-size {
+  min-width: 213px;
+  max-width: 213px;
+  min-height: 320px;
+  max-height: 320px;
+}
+
+.panel-default > .panel-body {
+  border-color: #ddd;
+}
+
+.panel > .panel-body {
+  background-color: #f7f7f7;
+  margin: 0;
+}
+
+.panel-body {
+  padding: 15px;
+}
+
+.background-wrapper {
+  /* Full height */
+  height: 100%;
+  width: 100%;
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  z-index: -1;
+  opacity: 0.4;
+  box-shadow: 0 0.0625rem 0.0625rem 0 #bbb;
+
+}
+
+.article-meta {
+  background-color: #fff;
+  box-shadow: 0 0.125rem 0.125rem 0 #bbb;
+}
+
+.nav-item {
+  width:max-content;
+  padding: 10px;
+}
+
+.nav-link {
+  text-align: center;
+}
+
+.nav-item:hover{
+  background: #efefef;
+}
