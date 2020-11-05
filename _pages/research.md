@@ -3,7 +3,7 @@ title: "VMG - Scientific Mission"
 layout: textlay
 excerpt: "Allan Lab -- Scientific Mission"
 sitemap: false
-permalink: /Scientific Mission/
+permalink: /ScientificMission/
 ---
 
 <div class="col-sm-4">
