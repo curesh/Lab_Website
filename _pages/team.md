@@ -12,9 +12,9 @@ permalink: /people/
 
 </div>
 
-<div markdown="1" style="width:45%; left: 50%; border: 5px red solid; display: inline-block">
+<div markdown="1" style="width:45%; left: 50%; border: 5px red solid; display: inline-block; margin: auto">
    
-   ## Achuta Kadambi
+   <h2>Achuta Kadambi</h2>
    
    <h4>Leader, Visual Machines Group</h4>
    
