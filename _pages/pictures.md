@@ -1,5 +1,5 @@
 ---
-title: "VMG - Visit"
+title: "Visual Machines Group"
 layout: piclay
 excerpt: "Allan Lab -- Pictures"
 permalink: /visit/
