@@ -6,13 +6,13 @@ sitemap: false
 permalink: /people/
 ---
 
-<div class="col-sm-6">         
+<div style="width: 50%">         
    
    <img src="{{ site.url }}{{ site.baseurl }}/img/achutalarge.png" alt="Headshot" class="column-img center-img" style="padding-left: 90px">
 
 </div>
 
-<div class="col-sm-4">
+<div style="width:50%">
   <div class="pad-center">
     <div class="heading-home">Achuta Kadambi</div>
     <div class="sub-heading">Leader, Visual Machines Group</div>
