@@ -19,9 +19,11 @@ Imagine if surgical robots could perform impossible surgeries by seeing details 
 To work towards these dreams, our lab focuses on three technical pillars that we push, explore and test.
 
 </div>
-
+<div class="col-sm-4">
+  
 ![]({{ site.url }}{{ site.baseurl }}/img/camera.png){: style="width: 300px; float: left; border: 10px"}
 
+</div>
 <br>
 <br>
 
