@@ -8,7 +8,7 @@ permalink: /scientificmission/
 
 <div style="width: 60%; height: auto; display: inline-block; vertical-align: top"> 
   
-# Mission Statement 
+# Mission Statement -----------------
 
 We give the gift of sight to machines. We do this by building computational imaging systems that tightly couple computer algorithms (CS) and imaging hardware (ECE). If successful, computational imaging has the potential to unleash an era of superhuman robotics.
 
@@ -21,8 +21,6 @@ To work towards these dreams, our lab focuses on three technical pillars that we
 </div>
 
 <div style="width: 40%; height: auto; display: inline-block; vertical-align: top"> 
-  
-
   
 ![]({{ site.url }}{{ site.baseurl }}/img/camera.png){: style="width: 100%; float: left; border: 10px"}
 
