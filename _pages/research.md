@@ -6,7 +6,7 @@ sitemap: false
 permalink: /scientificmission/
 ---
 
-<div style="width: 55%; height: auto; display: inline-block; vertical-align: top"> 
+<div style="width: 60%; height: auto; display: inline-block; vertical-align: top"> 
   
 # Mission Statement 
 
@@ -20,7 +20,7 @@ To work towards these dreams, our lab focuses on three technical pillars that we
 
 </div>
 
-<div style="width: 40%; height: auto; display: inline-block; vertical-align: top"> 
+<div style="width: 45%; height: auto; display: inline-block; vertical-align: top"> 
   
 ![]({{ site.url }}{{ site.baseurl }}/img/camera.png){: style="width: 100%; float: left; border: 10px"}
 
