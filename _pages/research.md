@@ -20,7 +20,7 @@ To work towards these dreams, our lab focuses on three technical pillars that we
 
 </div>
 
-<div style="width: 37.5%; height: auto; display: inline-block; vertical-align: top"> 
+<div style="width: 37.5%; height: auto; display: inline-block; vertical-align: top; margin-left: 50px"> 
   
 <br>
  
