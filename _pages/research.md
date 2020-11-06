@@ -27,7 +27,7 @@ To work towards these dreams, our lab focuses on three technical pillars that we
 <br>
 <br>
 
-# Three Pillars of Our Labgiyvguytb
+# Three Pillars of Our Lab
 
 
 ### Pillar I: Computational Imaging
