@@ -27,7 +27,6 @@ To work towards these dreams, our lab focuses on three technical pillars that we
 ![]({{ site.url }}{{ site.baseurl }}/img/camera.png){: style="width: 100%; float: left; border: 10px"}
 
 </div>
-<br>
 
 # Three Pillars of Our Lab
 
