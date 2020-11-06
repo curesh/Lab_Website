@@ -20,12 +20,11 @@ Los Angeles, CA 90095 <br>
 <h4 style="font-weight: bold">Lab Address:</h4>
 Room #18-135, Engineering IV <br>
 420 Westwood Plaza
-
 Los Angeles, CA 90095
 
 <h4 style="font-weight: bold">Student Workplace Address:</h4>
 Room #66-124, Engineering IV <br>
-420 Westwood Plaza 
+420 Westwood Plaza <br> 
 Los Angeles, CA 90095
 
 </div>
