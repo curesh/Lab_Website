@@ -6,6 +6,9 @@ sitemap: false
 permalink: /
 ---
 
+decription
+___________
+
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -54,7 +57,7 @@ permalink: /
 </div>
 
 
-<div class="col-sm-4" style="border: 5px red solid; width: 250px>
+<div class="col-sm-4" style="border: 5px red solid; width: 250px">
             
 <h2> Press </h2>
 <br>
