@@ -1,5 +1,5 @@
 ---
-title: "VMG - Home"
+title: "Visual Machines Group"
 layout: homelay
 excerpt: "Visual Machines Group at UCLA."
 sitemap: false
@@ -54,7 +54,7 @@ permalink: /
 </div>
 
 
-<div class="col-sm-4">
+<div class="col-sm-4" style="border: 5px red solid; width: 250px>
             
 <h2> Press </h2>
 <br>
