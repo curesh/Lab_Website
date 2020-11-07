@@ -3,7 +3,7 @@
   description: This paper makes a first attempt to re-examine the shape from polarization (SfP) problem using physics-based deep learning.
   authors: Yunhao Ba, Alex Gilbert, Franklin Wang, Jinfa Yang, Rui Chen, Yiqin Yang, Lei Yan, Boxin Shi, Achuta Kadambi
   link:
-    url: https://arxiv.org/abs/2008.13766
+    url: link
     display:  arXiv:2008.13766
   highlight: 1
   news2:
@@ -13,7 +13,7 @@
   description: Overview of convergence of physics and AI for imaging and vision and the path ahead.
   authors: Achuta Kadambi
   link:
-    url: https://arxiv.org/abs/2006.12840
+    url: link
     display:  arXiv:2006.12840
   highlight: 1
 
@@ -32,7 +32,7 @@
   description: A novel pipeline that enables discovery of underlying parameters and equations from videos of physical phenomena.
   authors: Pradyumna Chari, Chinmay Talegaonkar, Yunhao Ba, Achuta Kadambi, University of California Los Angeles 
   link:
-    url: https://arxiv.org/abs/2005.05140
+    url: link
     display:  arXiv:2005.05140
   highlight: 0
   news2:
@@ -42,7 +42,7 @@
   description: Generalizing Physics-Based Learning (PBL), by making the first attempt to bring neural architecture search (NAS) to the realm of PBL.
   authors: insert authors
   link:
-    url: https://arxiv.org/abs/2002.02289
+    url: link
     display:  arXiv:2002.02289
   highlight: 1
   news2:
@@ -52,7 +52,7 @@
   description: A novel non-line of sight imaging framework with long-wave infared.
   authors: Tomohiro Maeda, Yiqin Wang, Ramesh Raskar, Achuta Kadambi, MIT Media Lab, Visual Machines Group UCLA, ICCP 2019
   link:
-    url: https://www.nature.com/articles/s41586-019-1408-8
+    url: link
     display:  Nature 571, 541 (2019)
   highlight: 1
   news2:
