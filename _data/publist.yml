@@ -4,7 +4,7 @@
   authors: Yunhao Ba, Alex Gilbert, Franklin Wang, Jinfa Yang, Rui Chen, Yiqin Yang, Lei Yan, Boxin Shi, Achuta Kadambi
   link:
     url: link
-    display:  arXiv:2008.13766
+    display:  insert link
   highlight: 1
   news2:
 
@@ -14,7 +14,7 @@
   authors: Achuta Kadambi
   link:
     url: link
-    display:  arXiv:2006.12840
+    display: insert link
   highlight: 1
 
 - title: "Polarized Non-Line-of-Sight Imaging"
@@ -22,8 +22,8 @@
   description: Novel incorporation of polarization cues towards non-line-of-sight imaging.
   authors: Kenichiro Tanaka, Yasuhiro Mukaigawa, Achuta Kadambi, Nara Institute of Science and Technology (NAIST), Visual Machines Group, UCLA CVPR 2020
   link:
-    url: https://iopscience.iop.org/article/10.1088/1361-6528/ab1c7f/pdf
-    display: Nanotechnology 30, 335702 (2019)
+    url: link
+    display: insert link
   highlight: 1
   news2: See also our papers on the theoretical modeling of such measurements, and the paper about fabrication.
 
@@ -33,7 +33,7 @@
   authors: Pradyumna Chari, Chinmay Talegaonkar, Yunhao Ba, Achuta Kadambi, University of California Los Angeles 
   link:
     url: link
-    display:  arXiv:2005.05140
+    display:  insert link
   highlight: 0
   news2:
 
@@ -43,7 +43,7 @@
   authors: insert authors
   link:
     url: link
-    display:  arXiv:2002.02289
+    display:  insert link
   highlight: 1
   news2:
 
@@ -53,7 +53,7 @@
   authors: Tomohiro Maeda, Yiqin Wang, Ramesh Raskar, Achuta Kadambi, MIT Media Lab, Visual Machines Group UCLA, ICCP 2019
   link:
     url: link
-    display:  Nature 571, 541 (2019)
+    display:  insert link
   highlight: 1
   news2:
 
