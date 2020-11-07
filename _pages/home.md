@@ -57,7 +57,7 @@ ___________
 </div>
 
 
-<div class="col-sm-4" style="border: 5px red solid; width: 250px">
+<div class="col-sm-4" style="border: 5px red solid; width: 400px">
             
 <h2> Press </h2>
 <br>
@@ -75,7 +75,7 @@ VMG student Yiqin Wang presents paper in Japan.
             
 </div>
             
-<div class="col-sm-4" style="margin-left: 25px">
+<div class="col-sm-4" style="margin-left: 25px; border: 5px red solid; width: 400px">
             
 <h2>Current Teaching</h2>
 <br>
