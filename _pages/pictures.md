@@ -1,11 +1,11 @@
 ---
 title: "Visual Machines Group"
 layout: piclay
-excerpt: "Allan Lab -- Pictures"
+excerpt: "visit"
 permalink: /visit/
 ---
 
-### Want to get involved?
+<h2>Want to get involved?</h2>
 
 <br>
 
