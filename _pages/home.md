@@ -6,8 +6,9 @@ sitemap: false
 permalink: /
 ---
 
-decription
-___________
+decription<br>
+..........<br>
+..........
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -56,8 +57,9 @@ ___________
   </a>
 </div>
 
+<br> <br> <br>
 
-<div class="col-sm-4" style="border: 5px red solid; width: 400px">
+<div class="col-sm-4" style="border: 5px red solid; width: 350px">
             
 <h2> Press </h2>
 <br>
@@ -75,7 +77,7 @@ VMG student Yiqin Wang presents paper in Japan.
             
 </div>
             
-<div class="col-sm-4" style="margin-left: 25px; border: 5px red solid; width: 400px">
+<div class="col-sm-4" style="margin-left: 25px; border: 5px red solid; width: 350px">
             
 <h2>Current Teaching</h2>
 <br>
