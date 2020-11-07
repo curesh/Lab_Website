@@ -1,5 +1,5 @@
 ---
-title: "VMG - People"
+title: "Visual Machines Group"
 layout: gridlay
 excerpt: "VMG: People"
 sitemap: false
