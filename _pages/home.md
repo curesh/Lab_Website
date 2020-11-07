@@ -23,17 +23,17 @@ VMG student Yiqin Wang presents paper in Japan.
             
 </div>
             
-<div class="col-sm-6">
+<div class="col-sm-6" style="margin-left: 25px>
             
 <h2>Current Teaching</h2>
 <br>
-<h2>Winter 2020</h2>
+<h4>Winter 2020</h4>
 EE 211: Digital Image Processing
 <br>
-<h2>Fall 2019</h2>
+<h4>Fall 2019</h4>
 CS 188: Intro to Computer Vision
 <br>
-<h2>Spring 2019</h2>
+<h4>Spring 2019</h4>
 EE 102: Signals and Systems
 
 </div>
