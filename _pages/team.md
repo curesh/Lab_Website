@@ -1,7 +1,7 @@
 ---
 title: "Visual Machines Group"
 layout: gridlay
-excerpt: "VMG: People"
+excerpt: "people"
 sitemap: false
 permalink: /people/
 ---
@@ -33,7 +33,7 @@ permalink: /people/
 
 <div style="text-align:center">
    <br> <br> <br> 
-   <h2> Postdoctoral Researchers <a href="{{ site.url }}{{ site.baseurl }}/vacancies">(Join Us)</a></h2>
+   <h2> Postdoctoral Researchers <a href="{{ site.url }}{{ site.baseurl }}/joinus">(Join Us)</a></h2>
    <br> <br> 
    <h2> Students</h2>
  </div>
