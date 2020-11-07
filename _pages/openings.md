@@ -1,7 +1,7 @@
 ---
-title: "VMG - Join Us"
+title: "Visual Machines Group"
 layout: textlay
-excerpt: "Openings"
+excerpt: "Join Us"
 sitemap: false
 permalink: /joinus
 ---
