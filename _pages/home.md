@@ -5,7 +5,7 @@ excerpt: "Visual Machines Group at UCLA."
 sitemap: false
 permalink: /
 ---
-<div class="col-sm-4>
+<div class="col-sm-4">
             
 <h2> Press </h2>
 <br>
@@ -23,7 +23,7 @@ VMG student Yiqin Wang presents paper in Japan.
             
 </div>
             
-<div class="col-sm-4>
+<div class="col-sm-4">
 </div>
 
 
