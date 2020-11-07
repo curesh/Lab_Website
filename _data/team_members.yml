@@ -1,6 +1,7 @@
 - name: [name]
-  photo: [photo]
-  info: Associate professor, started Jan 2015
+  photo: bannerblue.png
+  department: [department]
+  student: [undergrad/grad/...]
   email: [email]
   number_educ: 2
   education1: [education 1]
