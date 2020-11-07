@@ -1,7 +1,7 @@
 ---
-title: "VMG - Scientific Mission"
+title: "Visual Machines Group"
 layout: textlay
-excerpt: "Allan Lab -- Scientific Mission"
+excerpt: "scientific mission"
 sitemap: false
 permalink: /scientificmission/
 ---
@@ -45,4 +45,4 @@ In an approach we call “computational robotic imaging”, we generalize pillar
 
 With an expertise in algorithms and optics, we build imaging systems for healthcare applications. Imagine the possibility of imaging through scattering media, like biological tissue. Ordinarily one has had to use X-rays or MRI. However, it might be possible to use novel optical and computational methods, like speckle or transient inversion to see deeper through the skin. The method at right is able to see deep subsurface veins (to identify blood clots), using spatially coded visible light. Imagine if similar techniques could be used as a low-cost, high throughput screening method for cancers.
 
-
+<br> <br> <br>
