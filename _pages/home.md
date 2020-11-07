@@ -23,7 +23,7 @@ VMG student Yiqin Wang presents paper in Japan.
             
 </div>
             
-<div class="col-sm-6" style="margin-left: 25px>
+<div class="col-sm-6" style="margin-left: 25px">
             
 <h2>Current Teaching</h2>
 <br>
