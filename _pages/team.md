@@ -50,9 +50,9 @@ permalink: /people/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" alt="Insert photo" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/img/{{ member.photo }}" alt="Insert photo" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.department }}<br>{{member.student}}<br> email: <{{ member.email }}></i>
+  <i>{{ member.department }}<br>{{member.student}}<br> email: <{{ member.email }}> </i>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
