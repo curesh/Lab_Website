@@ -22,25 +22,25 @@ permalink: /
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/img2/banner.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/img2/banner.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/img2/banner.png" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/img2/banner.png" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/img2/banner.png" alt="Slide 5" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/img2/banner.png" alt="Slide 6" />
         </div>       
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/" alt="Slide 7" />
+            <img src="{{ site.url }}{{ site.baseurl }}/img2/banner.png" alt="Slide 7" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -54,7 +54,7 @@ permalink: /
 </div>
 
 
-<div class="col-sm-6">
+<div class="col-sm-4">
             
 <h2> Press </h2>
 <br>
@@ -72,7 +72,7 @@ VMG student Yiqin Wang presents paper in Japan.
             
 </div>
             
-<div class="col-sm-6" style="margin-left: 25px">
+<div class="col-sm-4" style="margin-left: 25px">
             
 <h2>Current Teaching</h2>
 <br>
